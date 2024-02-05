@@ -3,6 +3,9 @@
 
 
 -/Plugin/
+
 --------/MovieSearch/
+
 --------------------/data/
+
 --------------------/MovieSearch.py

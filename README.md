@@ -1,0 +1,2 @@
+# pycqbot_plugin
+这是一个收集了自己写的pycqbot的qq机器人的插件
